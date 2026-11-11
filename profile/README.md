@@ -2,7 +2,7 @@
   <a href="https://mcintoshsystems.com/"><img src="assets/avatar.png" width="88" height="88" alt="McIntosh Systems graphite rose"></a>
 </p>
 
-<h1 align="center">Better processes. A stronger return.</h1>
+<h1 align="center">Better ways to run your business.</h1>
 
 McIntosh Systems helps businesses reduce manual work and software costs. We start with the process: where work gets stuck, what it costs, and what would make it easier. Then we weigh the expected benefit against the cost of making and maintaining the change.
 
